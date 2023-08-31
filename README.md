@@ -19,20 +19,20 @@
 
 <h3 align="left">Linguagens:</h3>
 <div>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <a href="https://www.android.com/"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <a href="https://kotlinlang.org/"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<!--   <a href="https://www.apple.com/ios"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <a href="https://www.apple.com/swift/"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> -->
+  <a href="https://dart.dev/"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <a href="https://flutter.dev/"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
 <h3 align="left">Ferramentas:</h3>
 <div>
-  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=firebase&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /> -->
+  <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
+  <a href="https://www.atlassian.com/software/jira"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
+  <a href="https://developer.android.com/studio"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=firebase&logoColor=white" />
+  <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=firebase&logoColor=white" />
+<!--   <a href="https://developer.apple.com/xcode/"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /> -->
 </div>
 
