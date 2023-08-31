@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/SirFilbido?tab=repositories](https://github.com/SirFilbido?tab=repositories)
+- 💻 Todos os meus projetos estão disponíveis [aqui](https://github.com/SirFilbido?tab=repositories)
 
 - 📫 Meu e-mail para contato **osmar.filbido@gmail.com**
 
